@@ -1,0 +1,135 @@
+.container-fluid{
+    padding: 1% 25%;
+}
+.container-fluid {
+    padding: 2% 5%; 
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 2.5rem !important; 
+    font-weight: bold !important;
+    color: #982080 !important;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-weight: 100;
+    color: #c936ae !important; 
+}
+#titulo {
+    background-color: rgb(57, 10, 101);
+     padding: 3% 10%;
+}
+
+.navbar{
+    background-color: rgb(62, 13, 107);
+    padding-bottom: 0 0 4.5rem;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5
+}
+.container-fluid{
+    padding: 1% 25%;
+}
+.nav-item {
+ padding: 0 18px;
+}
+.nav-link {
+ font-size: 1.2rem;
+ font-family: 'Montserrat-Light', sans-serif;
+ font-weight: 100;
+}
+.download-button {
+ margin: 5% 3% 5% 0;
+}
+.title-image{
+ width: 60%;
+ transform: rotate(25deg);
+}
+#caracteristicas { 
+padding: 7% 15%; 
+} 
+.caja-caracteristica{ 
+text-align: center; 
+padding: 5%; 
+}
+h3 { 
+font-family: 'Montserrat'; 
+font-size: 1.5rem; 
+font-weight: bold; 
+} 
+p{ 
+ color: #8f8f8f;
+ }
+.icon { 
+color: #ebbb1fea; 
+margin-bottom: 1rem; 
+} 
+.icon:hover { 
+color: #b2e00b; 
+}
+#testimonios { 
+padding: 7% 15%; 
+text-align: center; 
+background-color: #b9e41e; 
+color: #fff; 
+}
+
+.img-testimonio{ 
+width: 10%; 
+border-radius: 100%; 
+margin: 20px; 
+}
+
+#prensa{ 
+background-color: #b017ec; 
+text-align: center; 
+padding-bottom: 3%; 
+} 
+
+.logo-prensa { 
+width: 15%; 
+margin: 20px 20px 50px; 
+}
+.carousel-item{ 
+padding: 7% 15%; 
+}
+
+#precios {
+    padding: 5%;
+    text-align: center;
+}
+.precios-col {
+    padding: 3% 2%;
+
+}
+h2.precios{
+    color: black;
+}
+
+#cta{
+    background-color: #9e14d9;
+    color: rgb(255, 255, 255);
+    padding: 7% 15%;
+    text-align: center;
+}
+#footer {
+    padding: 5% 15%;
+    text-align: center;
+}
+
+#footer a {
+    color: #c520de !important;
+    margin: 20px 15px !important;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+}
+
+#footer a:hover {
+    color: #e312bd !important;
+}
